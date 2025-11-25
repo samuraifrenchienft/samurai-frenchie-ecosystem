@@ -1,6 +1,6 @@
 # $CHIE'S — Tokenomics (Solana Meme Coin)
 
-This document summarizes the tokenomics for **$CHIE'S**, a Solana-based meme coin
+This document summarizes the tokenomics for **$CHIE's**, a Solana-based meme coin
 focused on degen energy, community raids, and fun. No complex over-engineered
 mechanics — just a clean launch with transparent numbers and room to grow.
 
@@ -49,7 +49,7 @@ mechanics — just a clean launch with transparent numbers and room to grow.
 
 - Core contributors, design, development support  
 - Ongoing operational costs for maintaining and improving the project  
-- Subject to a longer vesting schedule with a cliff to align team incentives with long-term health  
+- Subject to a longer Lock to align team incentives with long-term health  
 
 ### 2.5 Future Investors & Advisors — 3%
 **12,622,800 tokens**
@@ -60,7 +60,7 @@ mechanics — just a clean launch with transparent numbers and room to grow.
 
 ---
 
-## 3. Vesting Philosophy
+## 3. Coin Launch Philosophy
 
 The goal is to keep $CHIE'S as close to a **fair meme launch** as possible,
 while still leaving room for growth, support, and strategic partners.
@@ -72,21 +72,21 @@ while still leaving room for growth, support, and strategic partners.
 
 - **Community & Promotion:**  
   - Partial unlock at launch for initial campaigns  
-  - Remaining tokens streamed over **6–12 months**
+  - Remaining tokens sunlocked **6 months**
 
 - **Team & Ops:**  
-  - Long vesting with a **6–12 month cliff**  
-  - Linear vesting over **12–24 months** after the cliff  
+  - Long lock with 50% **12 month**  
+  -  Rest after **18 months**   
 
 - **Future Investors & Advisors:**  
-  - Short degen-style vesting (for example, **35–50% at TGE** and the rest unlocked over **1–3 months**)  
+  - Short degen-style vesting (for example, **35–50% at TGE** and the rest unlocked over **1–2 months**)  
   - Only used if strategic deals make sense for the project  
 
 ---
 
 ## 4. Launch & Liquidity Plan (Summary)
 
-- Launch on a Solana DEX (e.g., Raydium / Jupiter routing)  
+- Launch on a Solana DEX (e.g., Raydium)  
 - Majority of supply added to liquidity at launch  
 - LP to be **locked or burned** to build trust  
 - No taxes, no confusing mechanics — just trading, memes, and community  
