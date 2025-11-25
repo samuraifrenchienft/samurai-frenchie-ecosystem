@@ -77,8 +77,7 @@ Created for:
 
 - LP locked  
 - No blacklist or hidden mint functions  
-- Airdrops based on **activity + holding**  
-(Not idle wallets)
+- Airdrops based on **Participation + Holding NFTs**  
 
 ---
 
