@@ -1,52 +1,30 @@
 # 🗺️ Samurai Frenchie — 2025 Roadmap  
-*Where Traders Become Legends — Dreams Begin On-Chain.*
 
----
+1. **Foundations & Storytelling**  
+   - Finalize branding & core lore  
+   - Set up socials and content cadence  
+   - Weekly teasers, Substack drops, and community base-building  
 
-## Act I — The Gates Open  
-**Foundations & Storytelling**
+2. **Hype & Community Growth**  
+   - Raider events and coordinated shills  
+   - Fan contests, art/lore submissions  
+   - More canon episodes added to the Samurai Frenchie universe  
 
-- Lore publication begins (weekly chapters)  
-- Discord rank leveling system  
-- Brand launch across X & Substack  
-- Community onboarding & quests  
+3. **Dual-Chain NFT Launch + Beta**  
+   - 2,000 Base + 2,000 Solana NFT mint  
+   - Closed beta for **Trader Tuesdays**  
+   - Seasonal leaderboards and rewards experiments  
 
----
+4. **Birth of $CHIE’S — Meme Coin Launch & Ecosystem Expansion**  
+   - Emergency Samurai meeting (voice) to brief the Klan  
+   - Token creation + initial liquidity pair for **$CHIE’S**  
+   - Launch Samurai Frenchie meme coin  
+   - Coordinated group entry  
+   - Kick off $CHIE’S ecosystem: scale marketing, quests, and game rewards  
 
-## Act II — Rise of the Empire  
-**Base Chain NFT + Growth**
+5. **The New Dawn**  
+   - Monitor $CHIE’S and boost DEX visibility  
+   - Community wins & highlights  
+   - **Trade Duel** app launch  
+   - Expansion of the Base Empire
 
-- Samurai Frenchie NFTs launch on Base  
-- $CHIE ecosystem framework established  
-- Community raids & collaborations  
-- Lore-driven Klan events & campaigns  
-
----
-
-## Act III — Invasion Campaign  
-**Solana Cross-Chain Expansion**
-
-- Samurai Frenchie second mint on Solana  
-- Klan-led Solana introduction events  
-- **Trade Duel closed beta** with community leaderboards  
-- Airdrops for beta testers & wallets holding **3+ Samurai Frenchie NFTs**  
-
----
-
-## Act IV — The Empire Reigns  
-**Meme Coin & Scale-Up**
-
-- $CHIE public launch & liquidity expansion  
-- Multi-chain raids & cross-community spaces  
-- Merch, partnerships & cultural brand expansion  
-- Global story events & fan-featured canon  
-
----
-
-### Disclaimer / License
-
-Samurai Frenchie, $CHIE and associated NFTs are experimental digital assets.  
-Nothing in this document constitutes financial, legal, or tax advice.  
-Always do your own research and consult a professional advisor before making financial decisions.  
-
-Participation is at your own risk. Roadmap items are goals, not guarantees, and may evolve with community feedback, market conditions, and technical constraints.
