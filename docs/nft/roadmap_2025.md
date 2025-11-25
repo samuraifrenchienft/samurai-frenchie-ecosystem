@@ -26,4 +26,4 @@
    - Monitor $CHIE’S and boost DEX visibility  
    - Community wins & highlights  
    - **Trade Duel** app launch  
-   - Expansion of the Base Empire
+   - Continued Community Engagement
