@@ -93,18 +93,23 @@ This is a **movement, not a moment**.
 
 ---
 
-## 🗺️ 2025 Roadmap (Acts)
+### Campaign Roadmap — Acts I–V
+
 **Act I — The Gates Open**  
-Story begins, Klan forms
+Story begins, the Klan forms, and the Samurai Frenchie universe takes shape.
 
 **Act II — Rise of the Empire**  
-Base chain mint + $CHIE foundation
+Base chain NFT mint and the foundation of **$CHIE** set the economic core of the empire.
 
 **Act III — Invasion Campaign**  
-Solana mint + Trade Duel closed beta
+Solana NFT mint and **Trade Duel** closed beta extend the warfront to a second chain.
 
 **Act IV — The Empire Reigns**  
-Brand expansion + cross-chain dominance
+Brand expansion, cross-chain coordination, and growing recognition of Samurai Frenchie across ecosystems.
+
+**Act V — The New Dawn**  
+$CHIE gains broader DEX visibility, community wins and highlights stack up, Trade Duel moves toward public launch, and the Base Empire expands through new alliances and campaigns.
+
 
 📎 Full roadmap: `/docs/ROADMAP.md`
 
