@@ -7,7 +7,7 @@
    - Weekly teasers, Substack drops, and community base-building  
 
 2. **Hype & Community Growth**  
-   - Raider events and coordinated shills  
+   - Raid events and coordinated shills  
    - Fan contests, art/lore submissions  
    - More canon episodes added to the Samurai Frenchie universe  
 
