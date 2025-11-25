@@ -10,15 +10,15 @@ Percentages are approximate and may shift slightly based on the final raise size
 
 ## High-Level Allocation
 
-- **60–70% — Core Development & Extra Dev**
-- **10–15% — Infrastructure & Tools**
-- **10–15% — Community, Marketing & Growth**
-- **5–10% — Operations, Legal & Admin**
-- **5% — Reserve / Buffer**
+- **50% — Core Development & Extra Dev**
+- **20% — Infrastructure & Tools**
+- **15% — Community, Marketing & Growth**
+- **10% — Operations, Legal & Admin**
+- **05% — Reserve / Buffer**
 
 ---
 
-## 1. Core Development & Extra Dev (60–70%)
+## 1. Core Development & Extra Dev (50%)
 
 This is the largest part of the allocation.
 
@@ -39,7 +39,7 @@ majority of the round directly accelerates shipping and iteration.
 
 ---
 
-## 2. Infrastructure & Tools (10–15%)
+## 2. Infrastructure & Tools (20%)
 
 Everything needed to keep the product live, fast, and testable.
 
@@ -54,7 +54,7 @@ This is kept lean but sufficient to support live traffic and future scaling.
 
 ---
 
-## 3. Community, Marketing & Growth (10–15%)
+## 3. Community, Marketing & Growth (15%)
 
 Still important, but minimized to make room for a larger dev allocation.
 
@@ -70,7 +70,7 @@ unnecessary campaigns.
 
 ---
 
-## 4. Operations, Legal & Admin (5–10%)
+## 4. Operations, Legal & Admin (10%)
 
 Only what’s necessary to run things cleanly and compliantly.
 
