@@ -1,5 +1,6 @@
 # 🗺️ Samurai Frenchie — 2025 Roadmap  
 
+
 1. **Foundations & Storytelling**  
    - Finalize branding & core lore  
    - Set up socials and content cadence  
@@ -26,5 +27,8 @@
    - Monitor $CHIE’S and boost DEX visibility  
    - Community wins & highlights  
    - **Trade Duel** app launch  
-   - Expansion of the Base Empire
+   - Expansion of the Base Empire  
 
+---
+
+_Licensed under the MIT License. See the `LICENSE` file in this repository for details._
