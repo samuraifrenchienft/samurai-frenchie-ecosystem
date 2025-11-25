@@ -72,7 +72,7 @@ Created for:
 | Community Wallet | 4% | Raids, quests & events |
 | Airdrop Reserve | 3% | Beta testers & 3+ NFT holders |
 | Strategic Investors | 4% | Partner value & early funding |
-| Team Allocation | 2% | Long-term vested commitment |
+| Team Allocation | 2% | Long-term lock commitment |
 | Liquidity + Public | 83% | Fair launch foundation |
 
 - LP locked  
